@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "type": "sandwich",
+      "pic": "https://img.freepik.com/free-photo/grilled-sandwich-with-bacon-fried-egg-tomato-lettuce-served-wooden-cutting-board_1150-42571.jpg?w=826&t=st=1678285900~exp=1678286500~hmac=71b305ce8a7dc98b1fdb02e47b32e2694193d9d019ce0246788fdbb30adbf789",
+      "name": "grilled sandwich",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 2,
+      "type": "sandwich",
+      "pic": "https://img.freepik.com/premium-photo/toasted-club-sandwiches-with-pork-ham-cheese-tomatoes-lettuce-plate_89816-27016.jpg?w=826",
+      "name": "club sandwich",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 3,
+      "type": "sandwich",
+      "pic": "https://img.freepik.com/premium-photo/strawberry-toast-sandwich-with-melted-cheese_23-2149342875.jpg?w=826",
+      "name": "Strawberry toast sandwich",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 4,
+      "type": "sandwich",
+      "pic": "https://img.freepik.com/premium-photo/mexican-tortilla-quesadilla-with-scramble-eggs-vegetables-ham-cheese-mexican-cuisine-mexico-latin-america-traditional-restaurant-menu-dish-food-cooking-recipe-book-cover_114941-8779.jpg?w=826",
+      "name": "Mexican tortilla sandwich",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 5,
+      "type": "sandwich",
+      "pic": "https://img.freepik.com/free-photo/close-up-view-tasty-sandwich-with-black-bread-decorated-with-olive-wooden-cutting-board-stained-white-surface-with-free-space_179666-42399.jpg?w=900&t=st=1678287077~exp=1678287677~hmac=51cfbbc74a87f87ac5bd6fc95e578fe24449c190a8b8880fc3e427258a7cfccf",
+      "name": "black bread sandwich",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 6,
+      "type": "sandwich",
+      "pic": "https://img.freepik.com/free-photo/sandwich_1339-1108.jpg?w=996&t=st=1678287370~exp=1678287970~hmac=c75903519a6d52068ae6fea6bcbaffac523a57d2b08f59ef19b07a1c856a4d47",
+      "name": "simple sandwich",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 7,
+      "type": "salad",
+      "pic": "https://images.unsplash.com/photo-1607532941433-304659e8198a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1978&q=80",
+      "name": "foodzilla special salad",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 8,
+      "type": "salad",
+      "pic": "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1964&q=80",
+      "name": "foodzilla special salad 2",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 9,
+      "type": "salad",
+      "pic": "https://plus.unsplash.com/premium_photo-1673590981774-d9f534e0c617?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+      "name": "foodzilla special salad 3",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 10,
+      "type": "salad",
+      "pic": "https://images.unsplash.com/photo-1551248429-40975aa4de74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1890&q=80",
+      "name": "foodzilla special salad 4",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 11,
+      "type": "salad",
+      "pic": "https://images.unsplash.com/photo-1511994714008-b6d68a8b32a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "name": "foodzilla special salad 5",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 12,
+      "type": "salad",
+      "pic": "https://images.unsplash.com/photo-1604497181015-76590d828b75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
+      "name": "foodzilla special salad 6",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 13,
+      "type": "salad",
+      "pic": "https://images.unsplash.com/photo-1543353071-087092ec393a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+      "name": "foodzilla special salad 7",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 14,
+      "type": "salad",
+      "pic": "https://images.unsplash.com/photo-1610817153377-e54299ffdb1e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80",
+      "name": "foodzilla special salad 8",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 15,
+      "type": "pasta",
+      "pic": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80",
+      "name": "special italian pasta 1",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 16,
+      "type": "pasta",
+      "pic": "https://images.unsplash.com/photo-1598866594230-a7c12756260f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1908&q=80",
+      "name": "special italian pasta 2",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 17,
+      "type": "pasta",
+      "pic": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "name": "special italian pasta 3",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    },
+    {
+      "id": 18,
+      "type": "pasta",
+      "pic": "https://images.unsplash.com/photo-1587206668283-c21d974993c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+      "name": "special italian pasta 4",
+      "description": "The secret ingredient is always work. Don't go bacon my heart. First, we eat. Then, we do everything else. Lifes is uncertain. Eat dessert first.",
+      "price": 100,
+      "quantity": 1,
+      "cartPrice": 100
+    }
+  ]
+}
